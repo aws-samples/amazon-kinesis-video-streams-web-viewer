@@ -7,7 +7,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-import Amplify from "aws-amplify";
+import { Amplify } from "aws-amplify"
 import awsExports from "./aws-exports";
 
 
